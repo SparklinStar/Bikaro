@@ -12,7 +12,7 @@ body
 /* hero section */
 #hero
 {
-    background-image: url("/Images/HeroBackground.png");
+    background-image: url("../Images/HeroBackground.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -82,7 +82,7 @@ nav
     }
     .bikeimage
     {
-        background-image: url('/Images/Bikepic.png');
+        background-image: url('../Images/Bikepic.png');
         background-repeat: no-repeat;
         text-align: right;
         border-radius: 25px;
@@ -96,7 +96,7 @@ nav
     /* jobs */
     #jobs
     {
-        background-image: url('/Images/jobsBackground.png');
+        background-image: url('../Images/jobsBackground.png');
     }
     #jobs h1
     {
@@ -110,7 +110,7 @@ nav
     }
     .hiringimg
     {
-        background-image: url('/Images/Jobsimg.png');
+        background-image: url('../Images/Jobsimg.png');
         background-repeat: no-repeat;
         text-align: left;
         border-radius: 25px;
