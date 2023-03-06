@@ -129,3 +129,42 @@ nav
     margin-top: 7rem;
     margin-bottom: 2rem;
 }
+
+@media (max-width:800px) {
+   
+    .container-fluid
+    {
+        text-align: center;
+    }
+    .content
+    {
+        padding: 0%;
+    }
+    .success-story-content
+    {
+        width: 100%;
+    }
+    .Image-caption
+    {
+        margin-left: 20%;
+    }
+    .bikeimage
+    {
+        text-align: center;
+       
+    }
+    .bikeimage h4
+    {
+        font-size: 4rem;
+    }
+    .bikeimage .btn
+    {
+        padding: 1rem 2rem;
+        
+    }
+    .postion-of-headline2
+    {
+        position: static;
+    }
+
+}
